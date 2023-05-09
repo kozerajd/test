@@ -1,5 +1,5 @@
 import random
-
+# This comment is for testing purposes only!
 # target coordinates
 target_x = 5
 target_y = 5
